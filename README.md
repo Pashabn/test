@@ -1,4 +1,4 @@
 # test
 
- https://Pashabn.github.io/test/
+ https://Pashabn.github.io/test/cv.md
 
